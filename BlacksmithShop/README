@@ -1,0 +1,19 @@
+A beginner Java programming project simulating a medieval blacksmith shop to show knowledge of abstract data types.
+
+## Features
+- Creates equipment objects.
+- Stores equipment names, weights, and values.
+- Calculates total inventory weight and value.
+- Identifies valuable equipment worth 200 gold or more.
+
+## Concepts Demonstrated
+- Abstract Data Types (ADTs)
+- Encapsulation
+- Constructors
+- Getter methods
+- Boolean methods
+- Object creation and interaction
+
+## Language and IDE
+- Java
+- Eclipse
